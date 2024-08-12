@@ -1,0 +1,25 @@
+h1 {
+    color: #8123de; 
+    font-family: "Times New Roman", Times, serif;
+}
+
+h2, h3 {
+    color: #46453a; 
+    font-family: "Times New Roman", Times, serif;
+}
+
+body {
+    color: #000000; 
+    font-family: "Times New Roman", Times, serif;
+}
+
+a {
+    color: #99ff00;
+    text-decoration: none;
+    font-family: "Times New Roman", Times, serif;
+}
+
+a:hover {
+    color: #11ff88; 
+    text-decoration: underline;
+}
